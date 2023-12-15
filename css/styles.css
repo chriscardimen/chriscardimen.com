@@ -20,12 +20,12 @@ body{
 }
 .title_subheader {
     font-family: 'Jetbrains Mono';
-    font-size: 1.4em;
+    font-size: 1.6em;
     color: white;
 }
 .under_construction{
-    font-family: 'Source Sans Pro Extra Light';
-    font-size: 1.2em;
+    font-family: 'Source Sans Pro Light';
+    font-size: 2em;
     color: white;
 }
 .center{
